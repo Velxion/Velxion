@@ -1,6 +1,4 @@
 
-<h1 align="center">𓆩 𝑲𝒊𝒐 𓆪</h1>
-
 <p align="center">
   <i>Velxion · Any ♡</i>
 </p>
@@ -58,7 +56,6 @@
 </p>
 
 <div align="center">
-
-<img src="https://i.ibb.co/809cb0375b227f6b846e0a4e83efd4d9.gif" width="200">
+<img src="https://i.ibb.co/6JHc1Wm7/809cb0375b227f6b846e0a4e83efd4d9.gif" width="200">
 <br>
-<img src="https://i.ibb.co/bb4dc65bef59ba2b98e1cd960036378f.gif" width="200">
+<img src="https://i.ibb.co/YTXYt4Rv/bb4dc65bef59ba2b98e1cd960036378f.gif" width="200">
