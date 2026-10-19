@@ -59,10 +59,9 @@
 
 <div align="center">
 
-<img src="./https://pin.it/vTLqTYjU2.gif" width="85%" />
+<img src="https://ibb.co/Z1SthRLy" width="200">
+<br>
 
-<br><br>
-
-<img src="./https://ibb.co/Z1SthRLy.gif" width="85%" />
+<img src="https://ibb.co/S7tDd3P4" width="200">
 
 </div>
