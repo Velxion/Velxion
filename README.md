@@ -63,6 +63,6 @@
 
 <br><br>
 
-<img src="./https://pin.it/11avEZ6kq.gif" width="85%" />
+<img src="./https://ibb.co/Z1SthRLy.gif" width="85%" />
 
 </div>
