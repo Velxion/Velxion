@@ -62,4 +62,3 @@
 <img src="https://i.ibb.co/809cb0375b227f6b846e0a4e83efd4d9.gif" width="200">
 <br>
 <img src="https://i.ibb.co/bb4dc65bef59ba2b98e1cd960036378f.gif" width="200">
-</div>
